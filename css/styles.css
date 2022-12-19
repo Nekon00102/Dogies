@@ -1,0 +1,158 @@
+::-webkit-scrollbar {
+  width: 0;
+}
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.font {
+  font-weight: 900;
+}
+select {
+  border: 0px;
+  width: 110px;
+}
+a {
+  color: blue;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
+.content {
+  background-color: #fcfcff;
+}
+.redutsbImg {
+  width: 100%;
+  height: 50vh;
+}
+.redutsbFrame {
+  width: 100%;
+  height: 7vh;
+}
+h6 {
+  text-align: center;
+  margin-top: 25px;
+  font-weight: 700;
+}
+.camera {
+  text-align: start;
+}
+.numbers {
+  width: 5vh;
+  height: 5vh;
+  margin-right: 10vh;
+}
+.number {
+  width: 5.8vh;
+  height: 5.8vh;
+}
+.numbers:hover {
+  transform: scale(1.5);
+  transition-duration: 0.5s;
+}
+.number:hover {
+  transform: scale(1.5);
+  transition-duration: 0.5 s;
+}
+.photos {
+  width: 155px;
+  height: 180px;
+  margin-left: 5px;
+  margin-bottom: 15px;
+}
+.photos:hover {
+  transform: scale(1.2);
+  transition-duration: 0.5s;
+}
+.input:hover {
+  background-color: skyblue;
+  border-radius: 5px;
+}
+.redutsbText {
+  text-align: start;
+  font-weight: 700;
+  margin-top: 25px;
+}
+.redutsbSmallText {
+  text-align: start;
+}
+.scheme {
+  width: 140vh;
+  height: 60vh;
+  float: left;
+}
+.form {
+  margin: 65px;
+  background-color: blue;
+  width: 40vh;
+  height: 50vh;
+  float: left;
+  vertical-align: bottom;
+}
+.redutsbInput {
+  background-color: skyblue;
+}
+.clear {
+  clear: both;
+}
+.redutsbImgFrame {
+  width: 15vh;
+  height: 15vh;
+  float: left;
+  margin: 10px;
+}
+.redutsbImgFrame:hover {
+  transform: scale(1.2);
+  transition-duration: 0.5s;
+}
+.redutsbSvg {
+  width: 8vh;
+  height: 8vh;
+}
+.redutsbCard {
+  width: 45vh;
+  height: 30vh;
+}
+.redutsbCard:hover {
+  transform: scale(1.2);
+  transition-duration: 0.5s;
+}
+.redutsbWarningText {
+  margin-top: 10vh;
+}
+.redutsbSmallWarningText {
+  margin: 2vh;
+}
+.Text {
+  margin-top: 10vh;
+  font-weight: 900;
+}
+.redutsbScheme {
+  width: 120vh;
+  height: 20vh;
+  margin-right: 50vh;
+}
+.redutsbСamera {
+  width: 30vh;
+  height: 30vh;
+}
+.redutsbForm {
+  width: 50vh;
+  height: 40vh;
+  margin-left: 10vh;
+}
+.redutsbFormFirstInput {
+  margin-top: 2vh;
+  margin-bottom: 2.5vh;
+}
+.redutsbFormInput {
+  margin-bottom: 2.5vh;
+}
+.redutsbCardImg {
+  width: 33vh;
+  height: 33vh;
+}
+.CardForRedutsb {
+  width: 33vh;
+  height: 53vh;
+}
